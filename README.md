@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/swati-e/swati-e/blob/d306489eafe8652acb496e6804be064a3a8a8f46/Banner.png)
 <h1 align="center">Hi 👋, I'm Swati Ekhande</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
