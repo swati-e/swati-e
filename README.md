@@ -6,19 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-e&label=Profile%20views&color=0e75b6&style=flat" alt="swati-e" /> </p>
 
-- 🔭 I’m currently working on **Tourism website**
 
-- 🌱 I’m currently learning **MongoDB, Express.js, React, and Node.js**
 
 - 👯 I’m looking to collaborate on **Web Development, Java Projects, Android Projects**
 
-- 🤝 I’m looking for help with **Web Development Projects.**
 
-- 💬 Ask me about **Java, C/C++, MySQL/Oracle, HTML/CSS/JS, Figma, Agile, DS, OOPs, Python, Android Dev, Advanced Java**
 
-- 📫 How to reach me **swatiekhande1000@gmail.com**
 
-- ⚡ Fun fact **I once debugged a program in my sleep and woke up with the solution written down next to my pillow!**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
